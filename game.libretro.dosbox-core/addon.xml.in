@@ -14,10 +14,10 @@
 		<supports_standalone>true</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">DOS (DOSBox-core) r4465 </summary>
-		<description lang="en_GB">A DOSBox core for use in RetroArch and other libretro frontends.</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.dosbox-core</source>
+		<summary lang="en_GB">DOS (DOSBox-core) r4465 </summary>
+		<description lang="en_GB">A DOSBox core for use in RetroArch and other libretro frontends.</description>
 	</extension>
 </addon>
