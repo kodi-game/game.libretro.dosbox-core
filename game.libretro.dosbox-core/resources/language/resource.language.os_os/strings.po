@@ -23,4 +23,3 @@ msgstr ""
 msgctxt "Addon Description"
 msgid "A DOSBox core for use in RetroArch and other libretro frontends."
 msgstr ""
-
