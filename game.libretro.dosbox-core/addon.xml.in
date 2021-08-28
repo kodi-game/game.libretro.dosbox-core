@@ -17,6 +17,9 @@
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.dosbox-core</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<summary lang="en_GB">DOS (DOSBox-core) r4465 </summary>
 		<description lang="en_GB">A DOSBox core for use in RetroArch and other libretro frontends.</description>
 	</extension>
