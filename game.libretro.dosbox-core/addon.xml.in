@@ -23,5 +23,7 @@
 		</assets>
 		<summary lang="en_GB">DOS (DOSBox-core) r4465 </summary>
 		<description lang="en_GB">A DOSBox core for use in RetroArch and other libretro frontends.</description>
+		<description lang="ko_KR">RetroArch 및 기타 libretro 프론트엔드에서 사용하기 위한 DOSBox 코어.</description>
+		<description lang="zh_CN">用于 RetroArch 和其他 libretro 前端的 DOSBox 核心。</description>
 	</extension>
 </addon>
