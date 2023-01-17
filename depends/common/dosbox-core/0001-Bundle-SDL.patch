@@ -1,0 +1,26 @@
+From 08502053b9bbc9187e4197bf9e455e27d521abfd Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Tue, 17 Jan 2023 10:47:05 -0800
+Subject: [PATCH] Bundle SDL
+
+---
+ libretro/Makefile.libretro | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/libretro/Makefile.libretro b/libretro/Makefile.libretro
+index 5d427d02..226b1910 100644
+--- a/libretro/Makefile.libretro
++++ b/libretro/Makefile.libretro
+@@ -11,7 +11,8 @@ BUNDLED_AUDIO_CODECS ?= 1
+ # Build and link our own libsndfile statically.
+ BUNDLED_LIBSNDFILE ?= 1
+ # Build and link our own sdl and sdl_net statically.
+-BUNDLED_SDL ?= 0
++BUNDLED_SDL ?= 1
++WITH_SDL_SOUND_WRAPPER ?= 1
+ # Build with BASSMIDI support
+ WITH_BASSMIDI ?= 1
+ # Build with fluidsynth support
+-- 
+2.34.1
+
