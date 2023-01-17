@@ -1,1 +1,1 @@
-dosbox-core https://github.com/libretro/dosbox-core/archive/f47b883c5b34c19534699234ee1707cfd9849273.tar.gz
+dosbox-core https://github.com/libretro/dosbox-core/archive/4032f8ba364e8594fd8e160121f6b13f6ee2bf65.tar.gz
