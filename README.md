@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.dosbox-core/resources/icon.png)
+![DOS (DOSBox-core) icon](game.libretro.dosbox-core/resources/icon.png)
 
 ### Fanart
 
