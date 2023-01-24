@@ -24,6 +24,7 @@
 		<summary lang="en_GB">DOS (DOSBox-core) r4465 </summary>
 		<description lang="da_DK">En DOSBox-kerne til brug i RetroArch og andre libretro-frontends.</description>
 		<description lang="en_GB">A DOSBox core for use in RetroArch and other libretro frontends.</description>
+		<description lang="es_ES">Un núcleo DOSBox para su uso en RetroArch y otros frontends libretro.</description>
 		<description lang="fi_FI">DOSBox-ydin RetroArchille ja muille libretro-käyttöliittymille.</description>
 		<description lang="it_IT">Un core DOSBox da utilizzare in RetroArch e altri frontend libretro.</description>
 		<description lang="ko_KR">RetroArch 및 기타 libretro 프론트엔드에서 사용하기 위한 DOSBox 코어.</description>
