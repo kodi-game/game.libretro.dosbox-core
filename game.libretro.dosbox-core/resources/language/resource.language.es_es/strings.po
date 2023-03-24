@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.15.1\n"
 
 msgctxt "Addon Summary"
-msgid "DOS (DOSBox-core) r4465 "
+msgid "DOS (DOSBox-core)"
 msgstr ""
 
 msgctxt "Addon Description"
