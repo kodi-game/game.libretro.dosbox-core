@@ -21,6 +21,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">DOS (DOSBox-core)</summary>
 		<summary lang="en_GB">DOS (DOSBox-core)</summary>
 		<summary lang="es_ES">DOS (DOSBox-core)</summary>
 		<description lang="da_DK">En DOSBox-kerne til brug i RetroArch og andre libretro-frontends.</description>
