@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.dosbox-core"
 		name="DOS (DOSBox-core)"
-		version="4482.0.0.11"
+		version="4482.0.0.12"
 		provider-name="DOSBox Team, radius, Nikos Chantziaras">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
