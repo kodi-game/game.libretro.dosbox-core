@@ -23,3 +23,7 @@ msgstr ""
 msgctxt "Addon Description"
 msgid "A DOSBox core for use in RetroArch and other libretro frontends."
 msgstr ""
+
+msgctxt "Addon Lifecyclestate"
+msgid "DOSBox-Core is broken. Use DOSBox or DOSBox-Pure."
+msgstr ""
