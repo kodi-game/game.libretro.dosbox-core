@@ -24,6 +24,7 @@
 		<summary lang="da_DK">DOS (DOSBox-core)</summary>
 		<summary lang="en_GB">DOS (DOSBox-core)</summary>
 		<summary lang="es_ES">DOS (DOSBox-core)</summary>
+		<summary lang="it_IT">DOS (DOSBox-core)</summary>
 		<summary lang="ko_KR">도스 (도스박스 코어)</summary>
 		<summary lang="zh_CN">DOS (DOSBox-core)</summary>
 		<description lang="da_DK">En DOSBox-kerne til brug i RetroArch og andre libretro-frontends.</description>
