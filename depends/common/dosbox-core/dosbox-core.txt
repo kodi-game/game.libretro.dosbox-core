@@ -1,1 +1,1 @@
-dosbox-core https://github.com/realnc/dosbox-core/archive/3acbd34955a4fa04b829ca827b79672426bfdd16.tar.gz
+dosbox-core https://github.com/realnc/dosbox-core/archive/27b6dbe8608ff63aaf8d5b7257a2b08c7d1a7a90.tar.gz
