@@ -24,3 +24,7 @@ msgstr "도스 (도스박스 코어)"
 msgctxt "Addon Description"
 msgid "A DOSBox core for use in RetroArch and other libretro frontends."
 msgstr "RetroArch 및 기타 libretro 프론트엔드에서 사용하기 위한 DOSBox 코어."
+
+msgctxt "Addon Lifecyclestate"
+msgid "DOSBox-Core is broken. Use DOSBox or DOSBox-Pure."
+msgstr "DOSBox-Core가 손상되었습니다. DOSBox 또는 DOSBox-Pure를 사용하십시오."

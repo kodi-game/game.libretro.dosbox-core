@@ -35,7 +35,5 @@
 		<description lang="it_IT">Un core DOSBox da utilizzare in RetroArch e altri frontend libretro.</description>
 		<description lang="ko_KR">RetroArch 및 기타 libretro 프론트엔드에서 사용하기 위한 DOSBox 코어.</description>
 		<description lang="zh_CN">用于 RetroArch 和其他 libretro 前端的 DOSBox 核心。</description>
-		<lifecyclestate type="None" lang="es_ES">DOSBox-Core está roto. Utiliza DOSBox o DOSBox-Pure.</lifecyclestate>
-		<lifecyclestate type="None" lang="ko_KR">DOSBox-Core가 손상되었습니다. DOSBox 또는 DOSBox-Pure를 사용하십시오.</lifecyclestate>
 	</extension>
 </addon>
